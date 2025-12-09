@@ -2,4 +2,4 @@
 ## About This Repository
 This repository is dedicated to the programming assignment for the Parallel Programming course in Fall 2023 at NYCU, lectured by Professor 游逸平
 
-See more Parallel Programming(https://nycu-sslab.github.io/PP-f25/) course information
+See more [Parallel Programming](https://nycu-sslab.github.io/PP-f25/) course information
